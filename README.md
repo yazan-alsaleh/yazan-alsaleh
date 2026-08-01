@@ -22,6 +22,16 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+## Tech Stack
+
+**ML/AI:** PyTorch · HuggingFace Transformers · LangGraph · sentence-transformers · PEFT/QLoRA
+
+**Serving & Infra:** FastAPI · Docker · ChromaDB · Streamlit
+
+**APIs & Tools:** Groq · Ollama · Weights & Biases · Pydantic
+
+**Currently learning:** Building GPT-2 from scratch (following Karpathy's nanoGPT)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yazan-ys202110319/Yazan-ys202110319/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yazan-ys202110319/Yazan-ys202110319/output/github-snake.svg" />
