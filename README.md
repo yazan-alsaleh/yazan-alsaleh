@@ -24,6 +24,8 @@
 
 ## Tech Stack
 
+**Languages:** Python · Java · JavaScript · C
+
 **ML/AI:** PyTorch · HuggingFace Transformers · LangGraph · sentence-transformers · PEFT/QLoRA
 
 **Serving & Infra:** FastAPI · Docker · ChromaDB · Streamlit
