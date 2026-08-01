@@ -26,11 +26,13 @@
 
 **Languages:** Python · Java · JavaScript · C
 
-**ML/AI:** PyTorch · HuggingFace Transformers · LangGraph · sentence-transformers · PEFT/QLoRA
+**Frontend:** HTML · CSS · Streamlit · Tailwind · Next.js 
 
-**Serving & Infra:** FastAPI · Docker · ChromaDB · Streamlit
+**ML/AI:** PyTorch · HuggingFace Transformers · LangGraph · sentence-transformers 
 
-**APIs & Tools:** Groq · Ollama · Weights & Biases · Pydantic
+**Serving & Infra:** FastAPI · ChromaDB · Flask · Docker 
+
+**APIs & Tools:** Ollama · Weights & Biases · Pydantic
 
 **Currently learning:** Building GPT-2 from scratch (following Karpathy's nanoGPT)
 
