@@ -22,6 +22,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+  ![Python](https://img.shields.io/badge/Python-3.11-blue)
+
 ## Tech Stack
 
 **Languages:** Python · Java · JavaScript · C
