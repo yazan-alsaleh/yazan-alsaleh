@@ -30,8 +30,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yazan-ys202110319&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-**Currently learning:** Building GPT-2 from scratch (following Karpathy's nanoGPT)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yazan-ys202110319/Yazan-ys202110319/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yazan-ys202110319/Yazan-ys202110319/output/github-snake.svg" />
