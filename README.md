@@ -26,7 +26,7 @@
 
 ## Tech Stack
 
-**Languages:**  `Python` · ==Java== · JavaScript · C
+**Languages:**  `Python` · <mark>Java</mark> · JavaScript · C
 
 **Frontend:** HTML · CSS · Streamlit · Tailwind · Next.js 
 
