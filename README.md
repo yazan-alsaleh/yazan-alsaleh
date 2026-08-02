@@ -25,12 +25,9 @@
 
 **APIs & Tools:** ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 
-## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Yazan-ys202110319&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yazan-ys202110319&theme=dark&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yazan-ys202110319&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 **Currently learning:** Building GPT-2 from scratch (following Karpathy's nanoGPT)
