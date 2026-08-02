@@ -22,7 +22,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-  ![Python](https://img.shields.io/badge/Python-3.11-blue)
+  ![Python](https://img.shields.io/badge/Python)
 
 ## Tech Stack
 
