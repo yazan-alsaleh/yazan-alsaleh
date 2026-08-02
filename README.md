@@ -22,11 +22,11 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 
 ## Tech Stack
 
-**Languages:**  `Python` · <mark>Java</mark> · JavaScript · C
+**Languages:**  `![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)` · <mark>Java</mark> · JavaScript · C
 
 **Frontend:** HTML · CSS · Streamlit · Tailwind · Next.js 
 
